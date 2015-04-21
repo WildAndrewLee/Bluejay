@@ -1,0 +1,5 @@
+language: csharp
+solution: Bluejay.sln
+script:
+  - xbuild /p:Configuration=Release Bluejay.sln
+  - mono ./Bluejay/bin/Debug/bluejay.exe ./Bluejay/bin/Debug/taglib-sharp.dll
