@@ -1,4 +1,4 @@
-## Bluejay
+## Bluejay ![Build Status](https://travis-ci.org/WildAndrewLee/Bluejay.svg)
 
 Bluejay is a lightweight C# application that automatically organizes your music library based on a directory structure template.
 
