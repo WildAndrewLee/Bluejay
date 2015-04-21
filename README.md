@@ -7,3 +7,6 @@ Example usage:
 ```
 ./bluejay example "%artists%\%album%\%track% - %title%" -o bluejay.log
 ```
+Dependencies
+============
+- TagLib#
