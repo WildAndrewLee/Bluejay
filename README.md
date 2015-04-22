@@ -4,7 +4,7 @@ Bluejay is a lightweight C# application that automatically organizes your music 
 
 Usage:
 ```
-./bluejay <source> <structure> [-o <log file>] [-i <monitor interval | default: 5 sec>] [-help]
+./bluejay <src> <structure> [-o <log file>] [-i <monitor interval | default: 5 sec>] [-help]
 ```
 
 Example usage:
