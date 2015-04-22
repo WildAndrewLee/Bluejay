@@ -17,7 +17,7 @@ namespace Bluejay
 		                                     "\t%track% - Track\n";
 
 		private const string ProperUsage = "Correct Usage: <directory to monitor> <directory structure format> [-o <log file>] [-i <monitor interval | default: 5 sec>] [-help]";
-		private const string ExampleUsage = @"Example Usage: ./bluejay music %artists%\%albums%\%track% - %title% -o bluejay.log";
+		private const string ExampleUsage = "Example Usage: ./bluejay music \"%artists%\%albums%\%track% - %title%\" -o bluejay.log";
 
 		private const int MessageDelay = 1; //Note that this is in seconds.
 
