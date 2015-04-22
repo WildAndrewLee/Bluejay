@@ -29,10 +29,10 @@ Example usage:
 - ```%year%``` - Year
 - ```%track%``` - Track
 
-### Support Operating Systems
+### Supported Operating Systems
 - Windows 7
 - Windows 8 (Unverified)
 - Ubuntu 12.04 LTS Server Edition 64-bit
 - OSX Mavericks (Unverified)
 
-Bluejay should be able to run on most Linux distributions with Mono installed. If it doesn't please submit an issue so I can add support.
+Bluejay should be able to run on most Linux distributions with Mono installed. If it doesn't, please submit an issue so I can add support.
