@@ -36,3 +36,10 @@ Example usage:
 - OSX Mavericks (Unverified)
 
 Bluejay should be able to run on most Linux distributions with Mono installed. If it doesn't, please submit an issue so I can add support.
+
+### Roadmap
+- Implement a custom read-only music tag library to reduce the overhead created by requiring TagLib#
+- Port Bluejay to native C to ensure a more out of the box cross-platform experience.
+- Reduce Bluejay's memory footprint
+- Reduce Bluejay's overall binary size
+- Create a native service for Bluejay
